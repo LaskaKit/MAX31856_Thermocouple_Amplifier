@@ -1,0 +1,1 @@
+# LaskaKit MAX31856 Thermocouple Amplifier for several types of thermocouples (K, J, N, R, S, T, E, and B).
