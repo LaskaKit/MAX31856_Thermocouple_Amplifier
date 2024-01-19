@@ -53,7 +53,7 @@ void loop() {
   //
   // here's where you can do other things
   //
-  delay(1000); // replace this with whatever
+  delay(500); // replace this with whatever
 
   // check for conversion complete and read temperature
   if (maxthermo.conversionComplete()) {
